@@ -1,0 +1,117 @@
+texto;class
+medico;medico
+convenio medico;medico
+quero medico;medico
+quero falado medico;medico
+quero falar do medico;medico
+falar do medico;medico
+odonto;odonto
+convenio odonto;odonto
+quero odonto;odonto
+quero falado odonto;odonto
+quero falar do odonto;odonto
+falar do odonto;odonto
+mudanca;mudanca
+mudancas;mudanca
+quero mudanca;mudanca
+quero mudancas;mudanca
+quero falada mudanca;mudanca
+quero falada mudancas;mudanca
+quero falar da mudanca;mudanca
+quero falar da mudancas;mudanca
+falar da mudanca;mudanca
+falar da mudancas;mudanca
+recarga;recarga_certa
+recarga certa;recarga_certa
+quero recarga;recarga_certa
+quero recarga certa;recarga_certa
+quero falada recarga;recarga_certa
+quero falada recarga certa;recarga_certa
+quero falar da recarga;recarga_certa
+quero falar da recarga certa;recarga_certa
+desconto;desc
+descontos;desc
+quero desconto;desc
+desc;desc
+quero falado desconto;desc
+falado desconto;desc
+quero falar do descoto;desc
+falar do desconto;desc
+cesta basica;cest
+quero cesta basica;cest
+cesta;cest
+quero falada cesta;cest
+falada cesta;cest
+quero falar da cesta;cest
+falar da cesta;cest
+alimentacao;va
+alimentos;va	
+desde a;va
+vale alimentacao;va
+ver a;va
+va;va
+mensal;va
+quero falado vale alimentacao;va
+quero falar vale alimentacao;va
+falado vale alimentacao;va
+falar do vale alimentacao;va
+quero falado va;va
+quero falar va;va
+falado va;va
+falar do va;va
+refeicao;vr
+vale refeicao;vr
+são;vr
+vr;vr
+br;vr
+dr;vr
+quinzenal;vr
+defeito;vr
+quero falado vale refeicao;vr 
+quero falar vale refeicao;vr
+falado vale refeicao;vr
+falar do vale refeicao;vr
+quero falado vr;vr
+quero falar vr;vr
+falado vr;vr
+falar do vr;vr
+convenio;cnv
+convenios;cnv
+quero convenio;cnv
+convergem;cnv
+serio;cnv
+com;cnv
+quero falado convenio;cnv
+quero falar convenio;cnv
+falado vale convenio;cnv
+falar do vale convenio;cnv
+vt;tsp
+conducao;tsp
+passagem;tsp
+vale transporte;tsp
+corte;tsp
+transporte;tsp
+transportes;tsp
+quero falado transporte;tsp
+quero falar transporte;tsp
+falado vale transporte;tsp
+falar do vale transporte;tsp
+certo;sim
+sim;sim
+ok;sim
+quero;sim
+quero sim;sim
+eu;sim
+correto;sim
+exato;sim
+pode;sim
+claro;sim
+isso;sim
+negativo;nao
+nao;nao
+jamais;nao
+nunca;nao
+nem;nao
+incorreto;nao
+
+
